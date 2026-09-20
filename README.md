@@ -1,70 +1,106 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShishirBagalkot.ShishirBagalkot" />
+<div align="center">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shishir+Bagalkot!;" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shishir%20Bagalkot&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Distributed%20Systems&descAlignY=58&descSize=16"/>
 
-<h3 align="center">A passionate software developer from Bengaluru, India</h3>
-
-<br/>
-
-<div align="left">
-  
-🚀 Full-Stack Alchemist
- 
-🔍 Exploring the realms of code & creativity
-  
-💻 Crafting digital wonders
-  
-🌱 Growing with every commit
-
-⚡ Fun fact **There are more possible variations of chess games than there are atoms in the observable universe**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:shishir.bagalkot@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/shishir-bagalkot-1045ba67/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://shishir-bagalkot.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle">
 
-<br/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+```
+$ whoami
+> Shishir Bagalkot — full-stack engineer, Bengaluru, India
+> I ship backend systems that stay correct under load
+> and occasionally wrestle Angular into behaving.
+```
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=7AA2F7&center=false&vCenter=true&width=560&lines=designing+distributed+systems+that+don't+fall+over;turning+coffee+into+backend+services;shipping+at+2am+because+prod+said+so;there+are+more+chess+games+than+atoms+in+the+universe" />
+
+<a href="mailto:shishir.bagalkot@gmail.com"><img src="https://img.shields.io/badge/-shishir.bagalkot%40gmail.com-1a1b27?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://www.linkedin.com/in/shishir-bagalkot-1045ba67/"><img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://shishir-bagalkot.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-1a1b27?style=flat-square&logo=firefox&logoColor=FF5722" /></a>
+
+</td>
+<td width="38%" align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🧭 About
+
+<table width="100%">
+<tr>
+<td width="34%" valign="top">
+
+### 🛰️ Who I am
+
+Backend-leaning full-stack engineer. I like systems that survive traffic spikes more than I like shiny new frameworks — most days I'm somewhere between a Cassandra schema and an Angular component tree.
+
+**Right now:** hardening a distributed data pipeline and pretending the on-call pager doesn't exist.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Stack
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,angular,ts,js&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,cassandra,postgres,elasticsearch,redis&theme=dark" />
+
+</td>
+<td width="33%" valign="top">
+
+### 🎯 2026 focus
+
+- Distributed systems that degrade gracefully
+- Event-driven architecture at scale
+- Elasticsearch queries someone else can read
+- Fewer, better commits
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 📊 By the numbers
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,angular,python"/><br>
-    <img src="https://skillicons.dev/icons?i=aws,cassandra,postgresql,elasticsearch,redis"/>
+
+<img width="32%" src="https://github-readme-stats-salesp07.vercel.app/api?username=ShishirBagalkot&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=14&hide_border=true&hide_title=true" />
+<img width="32%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ShishirBagalkot&count_private=true&theme=tokyonight&border_radius=14&hide_border=true" />
+<img width="32%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ShishirBagalkot&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=14&hide_border=true" />
+
 </div>
 
-<br/>
+## 🐍 Contribution snake
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align="center">
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=ShishirBagalkot&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <span style="margin: 0 100px;"></span>&nbsp;&nbsp;
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ShishirBagalkot&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br/><br/>
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ShishirBagalkot&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShishirBagalkot/ShishirBagalkot/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShishirBagalkot/ShishirBagalkot/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ShishirBagalkot/ShishirBagalkot/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+<br/><sub>eats my contribution graph, one commit at a time · generated by <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 </div>
 
-<!-- <br/><br/>
-
-<hr/>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div> 
 
-<br/>-->
+### 📡 Let's talk
+
+I'm usually up for a conversation about distributed systems, backend architecture, or why your Cassandra partition key is wrong.
+
+<img width="220" src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" />
+
+<img src="https://komarev.com/ghpvc/?username=ShishirBagalkot&style=flat-square&color=7AA2F7&label=profile+views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>

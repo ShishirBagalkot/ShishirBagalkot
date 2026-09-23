@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shishir%20Bagalkot&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Distributed%20Systems&descAlignY=58&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shishir%20Bagalkot&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Distributed%20Systems&descAlignY=58&descSize=16"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 $ whoami
 > Shishir Bagalkot — full-stack engineer, Bengaluru, India
 > I ship backend systems that stay correct under load
-> and occasionally wrestle Angular into behaving.
+> and occasionally wrestle Angular / React into behaving.
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=7AA2F7&center=false&vCenter=true&width=560&lines=designing+distributed+systems+that+don't+fall+over;turning+coffee+into+backend+services;shipping+at+2am+because+prod+said+so;there+are+more+chess+games+than+atoms+in+the+universe" />
@@ -40,7 +40,7 @@ $ whoami
 
 ### 🛰️ Who I am
 
-Backend-leaning full-stack engineer. I like systems that survive traffic spikes more than I like shiny new frameworks — most days I'm somewhere between a Cassandra schema and an Angular component tree.
+Backend-leaning full-stack engineer. I like systems that survive traffic spikes more than I like shiny new frameworks.
 
 **Right now:** hardening a distributed data pipeline and pretending the on-call pager doesn't exist.
 
